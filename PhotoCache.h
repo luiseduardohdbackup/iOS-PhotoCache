@@ -2,6 +2,7 @@
 //  PhotoCache.h
 //
 //  Created by Nicholas Hughes on 2/20/12.
+//  Copyright 2012. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
