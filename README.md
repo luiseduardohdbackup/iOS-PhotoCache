@@ -37,3 +37,4 @@ Fetch a photo from the cache:
     NSDictionary *photo = *your photo object*
     NSURL *photoUrl = *your photo's url*
     NSData *photoData = [PhotoCache fetchPhotoFromCache:photo fromUrl:photoUrl];
+    UIImage *image = [UIImage imageWithData:photoData];
